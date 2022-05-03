@@ -1,4 +1,4 @@
-a=int(input())
+a=input()
 for i in range(a):
     z=int(input())
     l=list(map(int,input().split()))
